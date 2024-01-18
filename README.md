@@ -7,7 +7,7 @@ A Software Engineer student in UTM JB
 On my way to be a Software Engineer
 
 * 🌍  I'm based in Malaysia, JB
-* 🖥️  See my portfolio at [MyPortfolio](http://https://omarmeneam.github.io/)
+* 🖥️  See my portfolio at [MyPortfolio](http://omarmeneam.github.io/)
 * ✉️  You can contact me at [o.meneam@gmail.com](mailto:o.meneam@gmail.com)
 * 🧠  I'm learning Web Development
 * ⚡  Actually am so COOL
